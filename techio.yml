@@ -7,4 +7,4 @@ projects:
     root: /php-template
     runner:
       name: gatthias/php_mysql
-      version: latest
+      version: 0.0.1
