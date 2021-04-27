@@ -6,5 +6,5 @@ projects:
   first-project:
     root: /php-template
     runner:
-      name: php
+      name: gatthias/php_mysql
       version: latest
