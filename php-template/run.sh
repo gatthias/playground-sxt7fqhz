@@ -1,1 +1,1 @@
-php UniverseTest.php
+service mysql restart && php UniverseTest.php
